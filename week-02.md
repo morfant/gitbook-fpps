@@ -141,7 +141,7 @@ int main() {
 
 &#x20;
 
-### 참고
+## 참고
 
 [printf 함수](https://ko.wikipedia.org/wiki/Printf)
 
