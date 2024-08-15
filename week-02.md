@@ -18,6 +18,9 @@ Data type과 변수에 대해 알아보기
 test
 </p>
 
+<p style="text-align: right;">
+이 텍스트는 오른쪽에 정렬됩니다.
+</p>
 
 
 
