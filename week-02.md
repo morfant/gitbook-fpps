@@ -12,17 +12,10 @@ Data type과 변수에 대해 알아보기
 
 0과 1 두 가지 숫자만을 사용하여 수를 표현하는 체계
 
-```
 <div style="text-align: right"> 오른쪽 </div>
-```
-
-이 텍스트는 오른쪽에 정렬됩니다.\
-이 텍스트도 오른쪽에 정렬됩니다.
 
 <p style="text-align: right;">
-
 test
-
 </p>
 
 
