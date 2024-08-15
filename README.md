@@ -1,1 +1,1 @@
-# Fundamental of Programming and Problem Solving
+# Fundamental of Programming and Problem Solviing
