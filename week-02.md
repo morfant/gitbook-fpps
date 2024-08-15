@@ -19,11 +19,11 @@ Data type과 변수에 대해 알아보기
 이 텍스트는 오른쪽에 정렬됩니다.\
 이 텍스트도 오른쪽에 정렬됩니다.
 
-\<p style="text-align: right;">
+<p style="text-align: right;">
 
 test
 
-\</p>
+</p>
 
 
 
