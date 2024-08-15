@@ -141,4 +141,14 @@ int main() {
 
 &#x20;
 
+### 참고
+
+[printf 함수](https://ko.wikipedia.org/wiki/Printf)
+
+[Data type](https://en.wikipedia.org/wiki/C\_data\_types#Main\_types)
+
+
+
+
+
 ## 과제
