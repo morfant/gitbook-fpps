@@ -10,21 +10,21 @@ C 언어란 무엇인지 알아봅시다
 
 
 
-### 개발환경 준비
 
-#### CLI?
+
+### CLI?
 
 Command Line Interface
 
 
 
-#### 컴파일?(Compile)
+### 컴파일?(Compile)
 
 인간의 언어인 소스코드를 컴퓨터가 이해할 수 있는 기계어로 바꾸는 과정
 
 
 
-#### 파이썬과 다른 점
+### 파이썬과 다른 점
 
 별도의 컴파일 과정이 필요하지 않다.
 
@@ -32,13 +32,13 @@ Command Line Interface
 
 
 
-#### 코드 에디터
+### 코드 에디터
 
 VSCode 설치
 
 
 
-#### 컴파일러 설치
+### 컴파일러 설치
 
 OSX : clang/clang++ (기본 내장)
 
@@ -46,7 +46,7 @@ Windows  : gcc/g++ (설치 필요)
 
 
 
-#### Hello, World!
+### Hello, World!
 
 {% code title="hello_world.c" lineNumbers="true" %}
 ```c
@@ -65,7 +65,7 @@ int main()
 
 
 
-#### 컴파일!
+### 컴파일!
 
 ```bash
 clang hello_world.c -o hello # osx
