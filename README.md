@@ -1,4 +1,6 @@
-# Fundamental of Programming and Problem Solviin# Week 01
+# Fundamental of Programming and Problem Solviin
+
+# Week 01
 
 ## 목표
 
